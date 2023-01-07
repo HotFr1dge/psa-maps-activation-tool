@@ -1,0 +1,18 @@
+{
+  "name": "psa-maps-drm-keygen",
+  "version": "1.0.0",
+  "description": "Generator of activation key for maps update in PSA vehicles. Works with the most navigation systems available in PSA vehicles.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "HotFr1dge",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.31.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "twofish": "^1.0.1"
+  }
+}
