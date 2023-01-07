@@ -38,3 +38,5 @@ Na przykład:
 `node index.js /path/to/CCT.DAT.inf VIN12345678901234` 
 
 Wygenerowany klucz aktywacyjny zostanie wyświetlony w konsoli.
+
+![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
