@@ -31,12 +31,12 @@ Aby zainstalować zależności, wykonaj polecenie:
 `npm install` 
 
 ## Użycie
-Aby wygenerować klucz aktywacyjny, wykonaj polecenie:
-`node index.js <ścieżka do pliku> <numer VIN>` 
-
-Na przykład:
-`node index.js /path/to/CCT.DAT.inf VIN12345678901234` 
-
-Wygenerowany klucz aktywacyjny zostanie wyświetlony w konsoli.
+Aby wygenerować klucz aktywacyjny:
+  1. Edytuj zawartość pliku `index.js` wg. wzoru poniżej:
+  ```js
+  Keygen('/path/to/CCT.DAT.inf', 'EXAMPLE_VIN_NUMBER');
+  ```
+  2. Uruchom skrpty za pomocą polecenia: `node index.js` 
+  3. Wygenerowany klucz aktywacyjny zostanie wyświetlony w konsoli.
 
 ![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
