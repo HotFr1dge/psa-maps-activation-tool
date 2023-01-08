@@ -35,10 +35,12 @@ To install dependencies, run the command: `npm install`
 
 ## Usage
 
-To generate an activation key, run the command: `node index.js <file path> <VIN number>`
-
-For example: `node index.js /path/to/CCT.DAT.inf VIN12345678901234`
-
-The generated activation key will be displayed in the console.
+To generate an activation key:
+  1. Edit the contents of the index.js file according to example below:
+  ```js
+  Keygen('/path/to/CCT.DAT.inf', 'EXAMPLE_VIN_NUMBER');
+  ```
+  2. Run the scripts with the command: `node index.js`
+  3. The generated activation key will be displayed in the console.
 
 ![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
