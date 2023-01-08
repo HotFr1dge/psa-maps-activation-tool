@@ -40,3 +40,5 @@ To generate an activation key, run the command: `node index.js <file path> <VIN 
 For example: `node index.js /path/to/CCT.DAT.inf VIN12345678901234`
 
 The generated activation key will be displayed in the console.
+
+![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
