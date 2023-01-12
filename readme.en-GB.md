@@ -45,4 +45,4 @@ To generate an activation key:
 
 ![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
 
-This is an implementation of original Java key generator in JavaScript. Original Java generator: ![generator_java-RT6.rar](https://www63.zippyshare.com/v/gVitj91m/file.html)
+This is an implementation of original Java key generator in JavaScript. Original Java generator: [generator_java-RT6.rar](https://www63.zippyshare.com/v/gVitj91m/file.html)
