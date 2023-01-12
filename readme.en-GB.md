@@ -44,3 +44,5 @@ To generate an activation key:
   3. The generated activation key will be displayed in the console.
 
 ![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
+
+This is an implementation of original Java key generator in JavaScript. Original Java generator: ![generator_java-RT6.rar](https://www63.zippyshare.com/v/gVitj91m/file.html)
