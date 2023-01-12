@@ -10,7 +10,7 @@ Klucz aktywacyjny jest obliczany za pomocą algorytmu Twofish i opiera się na z
 
 ## Funkcja `generate`
 ```js
-import generator from './generator';
+import generator from './generator.js';
 
 generator(filePath: string, vinNumber: string) => Promise<string>
 ```
