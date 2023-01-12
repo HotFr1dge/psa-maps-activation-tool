@@ -12,7 +12,7 @@ The activation key is calculated using the Twofish algorithm and is based on the
 
 ## `generate` function
 ```js
-import generator from './generator';
+import generator from './generator.js';
 
 generator(filePath: string, vinNumber: string) => Promise<string>
 ```
