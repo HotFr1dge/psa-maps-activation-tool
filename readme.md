@@ -42,4 +42,5 @@ Aby wygenerować klucz aktywacyjny:
 ![Screenshoot](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/screenshoot.png?raw=true)
 
 Jest to implementacja oryginalnego generatora kluczy Java w JavaScript. Oryginalny generator Java: [generator_java-RT6.rar](https://www63.zippyshare.com/v/gVitj91m/file.html)
-To oprogramowanie jest dostarczane „takie, jakie jest”, a autor tego oprogramowania nie ponosi za nie odpowiedzialności za nielegalne korzystanie z oprogramowania. Użytkownik jest odpowiedzialny za używanie oprogramowania zgodnie z nim z prawem ich jurysdykcji. Użytkownik ponosi wyłączną odpowiedzialność za wszelkie konsekwencje, które mogą wynikać z używania tego oprogramowania. Korzystając z tego oprogramowania, użytkownik wyraża zgodę na te warunki.
+
+**To oprogramowanie jest dostarczane „takie, jakie jest”, a autor tego oprogramowania nie ponosi za nie odpowiedzialności za nielegalne korzystanie z oprogramowania. Użytkownik jest odpowiedzialny za używanie oprogramowania zgodnie z nim z prawem ich jurysdykcji. Użytkownik ponosi wyłączną odpowiedzialność za wszelkie konsekwencje, które mogą wynikać z używania tego oprogramowania. Korzystając z tego oprogramowania, użytkownik wyraża zgodę na te warunki.**
