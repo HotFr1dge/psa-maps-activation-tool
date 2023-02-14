@@ -1,5 +1,6 @@
+# [README PL](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.md) - [README EN](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.en-GB.md)
 
-# Generator kluczy aktywacyjnych do aktualizacji map w pojazdach grupy PSA
+## Generator kluczy aktywacyjnych do aktualizacji map w pojazdach grupy PSA
 Ten skrypt służy do generowania klucza aktywacyjnego dla określonego pliku aktualizacji map _(CCT.DAT.inf)_ i numeru VIN. Generowane klucze są kompatybilne z większością systemów nawigacji w samochodach koncernu PSA (Citroen, Peugeot, DS Automobile) tj:
   - RT6 - plik CCT.DAT.inf z katalogu głównego `\`
   - SMEG -  plik CCT.DAT.inf z folderu `SMEG_UPG\DATA`
