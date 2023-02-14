@@ -1,4 +1,4 @@
-[README PL 🇵🇱](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.md) · [README EN 🇬🇧🇱](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.en-GB.md)
+[README PL 🇵🇱](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.md) · [README EN 🇬🇧](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.en-GB.md)
 
 # Activation Key Generator for PSA Group Vehicle Map Updates
 
