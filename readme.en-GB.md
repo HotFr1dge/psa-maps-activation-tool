@@ -1,3 +1,4 @@
+[README PL](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.md) · [README EN](https://github.com/HotFr1dge/psa-maps-activation-tool/blob/main/readme.en-GB.md)
 
 # Activation Key Generator for PSA Group Vehicle Map Updates
 
@@ -9,6 +10,9 @@ This script is used to generate an activation key for a specific map update file
 -   SMEG IV2 - CCT.DAT.inf file from `SMEG_IV2_UPG\DATA` folder
 
 The activation key is calculated using the Twofish algorithm and is based on the contents of the `CCT.DAT.inf` file and the VIN number. The file is read and its content is used as input data to the Twofish algorithm, along with the VIN number and a constant initialization vector. The encrypted data obtained is then used to generate the activation key, which is returned as a string.
+
+## Live Demo
+The script can be tested [here](https://hotfr1dge.pl/mapskeygen/).
 
 ## `generate` function
 ```js
