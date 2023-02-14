@@ -6,7 +6,10 @@ Ten skrypt służy do generowania klucza aktywacyjnego dla określonego pliku ak
   - SMEG+ - plik CCT.DAT.inf z folderu `SMEG_PLUS_UPG\DATA` 
   - SMEG IV2 - plik CCT.DAT.inf z folderu `SMEG_IV2_UPG\DATA`
 
-Klucz aktywacyjny jest obliczany za pomocą algorytmu Twofish i opiera się na zawartości pliku `CCT.DAT.inf` oraz numerze VIN. Plik jest odczytywany, a jego zawartość jest używana jako dane wejściowe do algorytmu Twofish, wraz z numerem VIN i stałym wektorem inicjalizacyjnym. Otrzymane zaszyfrowane dane są następnie używane do wygenerowania klucza aktywacyjnego, który jest zwracany jako ciąg znaków.
+Klucz aktywacyjny jest obliczany za pomocą algorytmu Twofish i opiera się na zawartości pliku `CCT.DAT.inf` oraz numerze VIN. Plik jest odczytywany, a jego zawartość jest używana jako dane wejściowe do algorytmu Twofish, wraz z numerem VIN i stałym wektorem inicjalizacyjnym. Otrzymane zaszyfrowane dane są następnie używane do wygenerowania klucza aktywacyjnego, który jest zwracany jako ciąg znaków. 
+
+## Live Demo
+Działanie skryptu można przetestować [tutaj](https://hotfr1dge.pl/mapskeygen/).
 
 ## Funkcja `generate`
 ```js
