@@ -12,7 +12,7 @@ This script is used to generate an activation key for a specific map update file
 The activation key is calculated using the Twofish algorithm and is based on the contents of the `CCT.DAT.inf` file and the VIN number. The file is read and its content is used as input data to the Twofish algorithm, along with the VIN number and a constant initialization vector. The encrypted data obtained is then used to generate the activation key, which is returned as a string.
 
 ## Live Demo
-The script can be [tested here](https://hotfr1dge.pl/mapskeygen/](https://hotfr1dge.pl/psa/mapskeygen/).
+The script can be [tested here](https://hotfr1dge.pl/psa/mapskeygen/).
 
 ## `generate` function
 ```js
