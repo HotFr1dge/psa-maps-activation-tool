@@ -10,7 +10,7 @@ Ten skrypt służy do generowania klucza aktywacyjnego dla określonego pliku ak
 Klucz aktywacyjny jest obliczany za pomocą algorytmu Twofish i opiera się na zawartości pliku `CCT.DAT.inf` oraz numerze VIN. Plik jest odczytywany, a jego zawartość jest używana jako dane wejściowe do algorytmu Twofish, wraz z numerem VIN i stałym wektorem inicjalizacyjnym. Otrzymane zaszyfrowane dane są następnie używane do wygenerowania klucza aktywacyjnego, który jest zwracany jako ciąg znaków. 
 
 ## Live Demo
-Działanie skryptu można przetestować [tutaj](https://hotfr1dge.pl/mapskeygen/).
+Działanie skryptu można przetestować [tutaj](https://hotfr1dge.pl/navteq-here-maps-activation-tool-for-citroen-peugeot-ds/).
 
 ## Funkcja `generate`
 ```js
